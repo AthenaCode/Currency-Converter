@@ -1,0 +1,23 @@
+h1, p, select {
+	color: green;
+	padding-top: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	letter-spacing: 1px;
+	text-align: center;
+}
+
+legend {
+	display: block;
+	width: 100%;
+	color: white;
+	border-bottom: 1px solid transparent;
+	float: left;
+	position: relative;
+}
+
+input {
+	padding-right: 20px;
+	text-align: left;
+}
